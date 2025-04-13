@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89A6B-2B1B-48EA-8AD7-C7B3EFE2F870}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\lenova\\desktop\\code task\\consoleapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89A6B-2B1B-48EA-8AD7-C7B3EFE2F870}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89A6B-2B1B-48EA-8AD7-C7B3EFE2F870}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\lenova\\desktop\\code task\\consoleapp\\consoleapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89A6B-2B1B-48EA-8AD7-C7B3EFE2F870}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89A6B-2B1B-48EA-8AD7-C7B3EFE2F870}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\lenova\\desktop\\code task\\consoleapp\\consoleapp\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89A6B-2B1B-48EA-8AD7-C7B3EFE2F870}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A89A6B-2B1B-48EA-8AD7-C7B3EFE2F870}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\lenova\\desktop\\code task\\consoleapp\\consoleapp\\utilites\\studenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A89A6B-2B1B-48EA-8AD7-C7B3EFE2F870}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\utilites\\studenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\ConsoleApp\\Group.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Group.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\ConsoleApp\\Group.cs",
+              "RelativeToolTip": "ConsoleApp\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:02:12.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentType.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\ConsoleApp\\Utilites\\StudentType.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Utilites\\StudentType.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\ConsoleApp\\Utilites\\StudentType.cs",
+              "RelativeToolTip": "ConsoleApp\\Utilites\\StudentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:03:30.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\ConsoleApp\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Student.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\ConsoleApp\\Student.cs",
+              "RelativeToolTip": "ConsoleApp\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:02:04.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwB8BAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:53:55.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
