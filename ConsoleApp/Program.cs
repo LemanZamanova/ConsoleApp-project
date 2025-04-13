@@ -39,7 +39,7 @@ do
             Console.WriteLine("Cixis");
             break;
         default:
-            Console.WriteLine("Yanlış seçim. Zəhmət olmasa yenidən cəhd edin.");
+            Console.WriteLine("Yanlış seçim.Yenidən cəhd edin.");
             break;
     }
 
